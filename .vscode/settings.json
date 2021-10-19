@@ -1,0 +1,15 @@
+{
+	"C_Cpp.errorSquiggles": "Enabled",
+	"files.associations": {
+		"iostream": "cpp",
+		"__bit_reference": "cpp",
+		"algorithm": "cpp",
+		"ostream": "cpp",
+		"ratio": "cpp",
+		"*.rmd": "markdown",
+		"type_traits": "cpp",
+		"memory": "cpp",
+		"utility": "cpp",
+		"string": "cpp"
+	}
+}
