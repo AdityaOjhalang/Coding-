@@ -8,7 +8,7 @@ int length(char *a){
 	return i;
 }
 void append(char *a , char *b){
-	int i = length(a);
+	int i = length(a);  
 	int lenb = length(b);
 	int j=0;
 	while(j<=lenb){
